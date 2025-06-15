@@ -7,8 +7,6 @@
 - [Data Overview & Summary Statistics](#data-overview-and-summary-statistics)
 - [Data Overview](#data-overview)
 - [Machine Learning Pipeline](#machine-learning-pipeline)
--
-- [EDA (Exploratory Data Analysis)](#exploratory-data-analysis)
 - [Recommendations](#recommendations)
 
 
@@ -75,7 +73,6 @@ Type of Analysis Performed
 - Min: 0
 - Max: 56
 
-6. **Source File**: `bank-additional-full.csv`[[bank-additional-full.csv](https://github.com/user-attachments/files/20743250/bank-additional-full.csv)]
 - **Observations**: 41,188
 - **Features**: 20 (excluding target)
 
